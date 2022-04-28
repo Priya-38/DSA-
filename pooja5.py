@@ -1,0 +1,1 @@
+print(1,5,end = input('-234'))

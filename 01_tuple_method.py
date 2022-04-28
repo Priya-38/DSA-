@@ -1,0 +1,5 @@
+#Creating a tuple using ()
+t = (1,2,5,6,1,2,5,2,2,1,1,9,8,8,9,3,3,3,9,2,4,6,6,2,1)
+print(t)
+#print(t.count(1))
+print(t.index(9))
